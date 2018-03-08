@@ -8,18 +8,18 @@
   # fa-icon: icon-info
 
 - name: About
-  description: Logo
+  description: About
   folder: pages/logo/
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
 - name: Skills
-  description: Kleur
+  description: Skills
   folder: pages/kleur/
   permalink: kleur/i
   # fa-icon: icon-info
 
-- name: Projects
+- name: Huisstijlgids
   description: Reeds uitgewerkte projecten 
   # folder: pages/stijlgids
   permalink: /stijlgids
