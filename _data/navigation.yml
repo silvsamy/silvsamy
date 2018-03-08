@@ -8,25 +8,19 @@
   # fa-icon: icon-info
 
 - name: About
-  description: About
+  description: Logo
   folder: pages/logo/
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
 - name: Skills
-  description: Skills
+  description: Kleur
   folder: pages/kleur/
   permalink: kleur/i
   # fa-icon: icon-info
 
-- name: Styleguide
-  description: Reeds uitgewerkte projecten 
-  # folder: pages/stijlgids
-  permalink: /stijlgids
-  # fa-icon: icon-info
-
-  - name: Contact
-  description: Neem contact op met Silvio Samyn
+- name: Projects
+  description: Stijlgids voor de Huistijlgids
   # folder: pages/stijlgids
   permalink: /stijlgids
   # fa-icon: icon-info
