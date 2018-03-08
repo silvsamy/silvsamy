@@ -19,7 +19,7 @@
   permalink: kleur/i
   # fa-icon: icon-info
 
-- name: Huisstijlgids
+- name: Styleguide
   description: Reeds uitgewerkte projecten 
   # folder: pages/stijlgids
   permalink: /stijlgids
