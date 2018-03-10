@@ -3,3 +3,50 @@
 @charset "UTF-8";
 
 @import "main";
+
+body {
+    background-image: url(../images/grid.png);
+}
+
+nav {
+    font-family: Passion One;
+    font-size: 1.75rem;
+    background-color: $geel;   
+}
+
+.bg-light {
+    background-color: white !important;  
+}
+
+.kleur-geel {
+    background-color: $geel;
+}
+
+.sub {
+    font-style: italic;
+    font-weight: 100;
+}
+
+mark {
+    background-color: $geel;
+    margin: 0;
+    padding: 0;
+}
+
+.icons {
+    width: 26%;
+}
+
+.titel-icon{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: $geel;
+    color: $paars;
+    font-family: Passion One, serif;
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 20px 0;
+}
